@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">PedraPapelTesoura</string>
+    <string name="quantidadejogadores">Quantidade de Jogadores</string>
+    <string name="umjogador">1 Jogador</string>
+    <string name="doisJogadores">2 Jogadores</string>
+    <string name="tresJogadores">3 Jogadores</string>
+    <string name="escolha_jogada">Escolha sua jogada</string>
+    <string name="resultado">Resultado:</string>
+    <string name="opcaopedra">opção pedra</string>
+    <string name="opcaopapel">opção papel</string>
+    <string name="opcaotesoura">opção tesoura</string>
+    <string name="jogada">sua jogada</string>
+    <string name="maquina01">Maquina01</string>
+    <string name="maquina02">Maquina02</string>
+    <string name="voce_perdeu">Resultado: Você perdeu</string>
+    <string name="voce_ganhou">Resultado: Você Ganhou!</string>
+    <string name="empate">Resultado: Empate</string>
 </resources>
