@@ -25,3 +25,7 @@ jogo que pode ser vitória, derrota ou empate deverá ser exibido ao usuário.</
 <p>A entrega deve ser feita por meio do compartilhamento do repositório Git até a data estipulada
 no ambiente da disciplina. Além do código do projeto, o repositório deve conter um pequeno
 vídeo que demonstre o jogo sendo executado.</p>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/58126683/131276159-f982f90a-ea22-467e-ab42-9e3df5fd2853.gif">
+</div>
